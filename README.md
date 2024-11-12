@@ -26,7 +26,7 @@
 - *Challenge(Optional): replace common phrases for their  [common abbreviations](https://en.wikipedia.org/wiki/Morse_code_abbreviations) before translating. You can use a data structure like a dictionary for this or read the information from a CSV file for a little more of a challenge.*
 - Take a video of your program.
 
-- [ ] Upload your code and your video to this repository
+- [x] Upload your code and your video to this repository
 
 ## Rubric 
 
